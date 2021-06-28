@@ -2,7 +2,7 @@
 ### Hi there, I'm Patrick 👋
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/mestizo/mestizo/main/assets/grind.jpg" alt="Grind" />
+  <img width="100%" src="https://raw.githubusercontent.com/mestizo/mestizo/main/assets/grind2.png" alt="Grind" />
 </div>
 
 ## About me
