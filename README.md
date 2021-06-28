@@ -13,7 +13,9 @@ Security Engineer living in Thailand. Extensive background in corporate cybersec
 - 👯 I’m looking to collaborate on security automation projects.
 - 🤔 I’m looking for help with Python
 - 💬 Ask me about web application security
-- 📫 How to reach me: <a href="htps://www.mestizo.asia">www.mestizo.asia</a>
+- 📫 How to reach me: <b> <a href="htps://www.mestizo.asia">www.mestizo.asia</a>
+</b>
+
 
 ## My Github stats
 <p align='center'>
