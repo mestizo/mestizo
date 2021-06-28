@@ -2,7 +2,7 @@
 ### Hi there, I'm Patrick 👋
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/mestizo/mestizo/main/assets/grind2.png" alt="Grind" />
+  <img width="80%" src="https://raw.githubusercontent.com/mestizo/mestizo/main/assets/grind2.png" alt="Grind" />
 </div>
 
 ## About me
@@ -13,7 +13,7 @@ Security Engineer living in Thailand. Extensive background in corporate cybersec
 - 👯 I’m looking to collaborate on security automation projects.
 - 🤔 I’m looking for help with Python
 - 💬 Ask me about web application security
-
+- 📫 How to reach me: <a href="htps://www.mestizo.asia">www.mestizo.asia</a>
 
 ## My Github stats
 <p align='center'>
